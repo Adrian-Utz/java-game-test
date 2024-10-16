@@ -1,3 +1,2 @@
-# This small program is my work in progress.
-
-# It does have some uniplemented methods 
+# This small program is currently abandoned
+# It does have some uniplemented methods and drawings if you want them
